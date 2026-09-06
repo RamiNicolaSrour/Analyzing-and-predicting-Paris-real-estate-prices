@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpt
+plotly
+scipy
+scikit-learn
+category-encoders
+xgboost
+joblib
+geopandas
