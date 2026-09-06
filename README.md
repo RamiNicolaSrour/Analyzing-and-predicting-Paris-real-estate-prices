@@ -1,7 +1,11 @@
 These are notebooks, files and codes about analyzing and build an ML to predict Paris real estate prices
+
 there is the main ipynb file that have the entire code
+
 Power BI that have the main analysis
+
 and a folder that have deployable steamlit version of the predictive ML model and files about parts of the data analysis and preprocessing steps
+
 main steps include preprocessing, merging datasets using coordinates and geo related libraries, enabling star schema, categorical and numeric analysis, and build the ML model
 
 
